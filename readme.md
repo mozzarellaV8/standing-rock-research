@@ -21,7 +21,7 @@ _pete.deevakul@gmail.com_
 - **Coal** - mountaintop removal; labor abuses
 - **Divestment Strategies**
 - **Law Enforcement Tactics**
-- **Culture & History** - public and personal perspectives
+- **Culture & History** - public and personal perspectives in writing, images, video
 
 
 
