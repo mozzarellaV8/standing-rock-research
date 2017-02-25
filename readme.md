@@ -14,6 +14,8 @@ _pete.deevakul@gmail.com_
 
 ## Broad Strokes
 
+- [Data](data)
+
 ### Research Areas and Data
 - **Spatial** - USGS archives, OpenStreetMap
 - **Environmental** - EPA, EIA
