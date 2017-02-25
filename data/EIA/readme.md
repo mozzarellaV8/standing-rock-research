@@ -2,17 +2,19 @@
 
 While this may seem redundant to what is already available online, recent initiatives such as [Data Refuge](http://www.ppehlab.org/datarefuge) and the Environmental Data Governance Initiative ([EDGI](https://envirodatagov.org/)) have brought to light how tenuous these sources actually are, especially under the 2017 administration.
 
-##### Data - description, date downloaded, source
-- [Crude Oil Pipelines](CrudeOil_Pipelines_US_EIA) - spatial shapefile, 02.24.2017, [https://www.eia.gov/maps/layer_info-m.php](https://www.eia.gov/maps/layer_info-m.php)
-- [Crude Oil Rail Terminals](CrudeOil_RailTerminals_US_EIA) - spatial shapefile, 02.24.2017, [https://www.eia.gov/maps/layer_info-m.php](https://www.eia.gov/maps/layer_info-m.php)
-- [Border Crossings, Liquids](BorderCrossing_Liquids_EIA) - spatial shapefile, 02.24.2017, [https://www.eia.gov/maps/layer_info-m.php](https://www.eia.gov/maps/layer_info-m.php)
-- [HGL Pipelines](HGL_Pipelines_US_EIA) - spatial shapefile, 02.24.2017, [https://www.eia.gov/maps/layer_info-m.php](https://www.eia.gov/maps/layer_info-m.php)
-- [Indian Lands](indlanp010g.shp_nt00968) - spatial shapefile, 02.24.2017, [https://nationalmap.gov/small_scale/atlasftp.html?openChapters=chpbound#chpbound](https://nationalmap.gov/small_scale/atlasftp.html?openChapters=chpbound#chpbound)
-- [Federal Lands](fedlanp010g.shp_nt00966) - spatial shapefile, 02.24.2017, [https://nationalmap.gov/small_scale/atlasftp.html?openChapters=chpbound#chpbound](https://nationalmap.gov/small_scale/atlasftp.html?openChapters=chpbound#chpbound)
+## the Data
+
+##### Data - description, date downloaded, source, size
+- [Crude Oil Pipelines](CrudeOil_Pipelines_US_EIA) - spatial shapefile, 02.24.2017, [https://www.eia.gov/maps/layer_info-m.php](https://www.eia.gov/maps/layer_info-m.php), ~77 KB
+- [Crude Oil Rail Terminals](CrudeOil_RailTerminals_US_EIA) - spatial shapefile, 02.24.2017, [https://www.eia.gov/maps/layer_info-m.php](https://www.eia.gov/maps/layer_info-m.php), ~238 KB
+- [Border Crossings, Liquids](BorderCrossing_Liquids_EIA) - spatial shapefile, 02.24.2017, [https://www.eia.gov/maps/layer_info-m.php](https://www.eia.gov/maps/layer_info-m.php), ~91 KB
+- [HGL Pipelines](HGL_Pipelines_US_EIA) - spatial shapefile, 02.24.2017, [https://www.eia.gov/maps/layer_info-m.php](https://www.eia.gov/maps/layer_info-m.php), ~41 KB
+- [Indian Lands](indlanp010g.shp_nt00968) - spatial shapefile, 02.24.2017, [https://nationalmap.gov/small_scale/atlasftp.html](https://nationalmap.gov/small_scale/atlasftp.html?openChapters=chpbound#chpbound), ~2.9 MB
+- [Federal Lands](fedlanp010g.shp_nt00966) - spatial shapefile, 02.24.2017, [https://nationalmap.gov/small_scale/atlasftp.html](https://nationalmap.gov/small_scale/atlasftp.html?openChapters=chpbound#chpbound), ~70.1 MB
 
 
 
-### EIA Data Details
+## EIA Data Details
 
 note: anything in **_bold italic_** are notes or descriptions I added.
 
