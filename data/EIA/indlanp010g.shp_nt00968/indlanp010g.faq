@@ -1,0 +1,752 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <title>1:1,000,000-Scale Indian Lands of the United States</title>
+  <link rel="schema.dc" href="http://purl.org/metadata/dublin_core"/>
+  <meta name="dc.title" content="1:1,000,000-Scale Indian Lands of the United States "/>
+  <meta name="dc.creator" content="National Atlas of the United States "/>
+  <meta name="dc.subject" content="Boundaries Society "/>
+  <meta name="dc.description" content="This map layer shows Indian lands of the United States.  For the most part, only areas of 320 acres or more are included; some smaller areas deemed to be important or significant are also included. Federally-administered lands within a reservation are included for continuity; these may or may not be considered part of the reservation and are simply described with their feature type and the administrating Federal agency.  Some established Indian lands which are larger than 320 acres are not included in this map layer because their boundaries were not available from the owning or administering agency. "/>
+  <meta name="dc.publisher" content="National Geospatial Program, The National Map Small Scale"/>
+  <meta name="dc.date" content="201412"/>
+  <meta name="dc.type" content="data.Vector digital data"/>
+  <meta name="dc.format" content="ESRI Shapefile"/>
+  <meta name="dc.format" content="ESRI File Geodatabase 10.0"/>
+  <meta name="dc.format" content="Web Map Service (WMS)"/>
+  <meta name="dc.identifier" content="http://nationalmap.gov/small_scale/atlasftp.html"/>
+  <meta name="dc.lang" content="en"/>
+  <meta name="dc.coverage.x.min" scheme="DD" content="-132"/>
+  <meta name="dc.coverage.x.max" scheme="DD" content="-67"/>
+  <meta name="dc.coverage.y.min" scheme="DD" content="25"/>
+  <meta name="dc.coverage.y.max" scheme="DD" content="56"/>
+  <meta name="dc.coverage.placeName" content="United States"/>
+  <meta name="dc.coverage.placeName" content="US"/>
+  <meta name="dc.rights" content="Access constraints: None; Use constraints: None.  Acknowledgment of The National Atlas of the United States of America would be appreciated in"/>
+  <meta name="generated-from" content="c:/usgs/nonbase_layers/fedlands/indlanp010g.txt"/>
+</head>
+<body>
+<h1>1:1,000,000-Scale Indian Lands of the United States</h1>
+Metadata also available as<p>
+<h4>Frequently anticipated questions:</h4>
+<ul>
+  <li><a href="#what">What does this data set describe?</a>
+    <ol>
+      <li><a href="#what.1">How should this data set be cited?</a></li>
+      <li><a href="#what.2">What geographic area does the data set cover?</a></li>
+      <li><a href="#what.3">What does it look like?</a></li>
+      <li><a href="#what.4">Does the data set describe conditions during a particular time period?</a></li>
+      <li><a href="#what.5">What is the general form of this data set?</a></li>
+      <li><a href="#what.6">How does the data set represent geographic features?</a></li>
+      <li><a href="#what.7">How does the data set describe geographic features?</a></li>
+    </ol>
+  </li>
+  <li><a href="#who">Who produced the data set?</a>
+    <ol>
+      <li><a href="#who.1">Who are the originators of the data set?</a></li>
+      <li><a href="#who.2">Who also contributed to the data set?</a></li>
+      <li><a href="#who.3">To whom should users address questions about the data?</a></li>
+    </ol>
+  </li>
+  <li><a href="#why">Why was the data set created?</a></li>
+  <li><a href="#how">How was the data set created?</a>
+    <ol>
+      <li><a href="#how.1">From what previous works were the data drawn?</a></li>
+      <li><a href="#how.2">How were the data generated, processed, and modified?</a></li>
+      <li><a href="#how.3">What similar or related data should the user be aware of?</a></li>
+    </ol>
+  </li>
+  <li><a href="#quality">How reliable are the data; what problems remain in the data set?</a>
+    <ol>
+      <li><a href="#quality.1">How well have the observations been checked?</a></li>
+      <li><a href="#quality.2">How accurate are the geographic locations?</a></li>
+      <li><a href="#quality.3">How accurate are the heights or depths?</a></li>
+      <li><a href="#quality.4">Where are the gaps in the data?  What is missing?</a></li>
+      <li><a href="#quality.5">How consistent are the relationships among the data, including topology?</a></li>
+    </ol>
+  </li>
+  <li><a href="#getacopy">How can someone get a copy of the data set?</a>
+    <ol>
+      <li><a href="#getacopy.0">Are there legal restrictions on access or use of the data?</a></li>
+      <li><a href="#getacopy.1">Who distributes the data?</a></li>
+      <li><a href="#getacopy.2">What's the catalog number I need to order this data set?</a></li>
+      <li><a href="#getacopy.3">What legal disclaimers am I supposed to read?</a></li>
+      <li><a href="#getacopy.4">How can I download or order the data?</a></li>
+    </ol>
+  </li>
+  <li><a href="#metaref">Who wrote the metadata?</a></li>
+</ul>
+<hr/>
+<h3><a name="what">What does this data set describe?</a></h3>
+<div style="margin-left: 2em">
+<dl>
+<dt><em>Title:</em>  1:1,000,000-Scale Indian Lands of the United States</dt>
+<dt><em>Abstract:</em>  
+<dd>
+
+This map layer shows Indian lands of the United States.  For the most part, only areas of 320 acres
+or more are included; some smaller areas deemed to be important or significant are also included.
+Federally-administered lands within a reservation are included for continuity; these may or may not
+be considered part of the reservation and are simply described with their feature type and the
+administrating Federal agency.  Some established Indian lands which are larger than 320 acres are
+not included in this map layer because their boundaries were not available from the owning or
+administering agency.
+
+</dd>
+<dt><em>Supplemental_Information:</em>  
+<dd>
+
+Information about National Atlas Web services can be found on the Web Map and Web Feature Services
+page; see <a href="http://nationalmap.gov/small_scale/infodocs/webservices.html">http://nationalmap.gov/small_scale/infodocs/webservices.html</a>.
+<br/>
+
+</dd>
+</dl>
+</div>
+<ol>
+<li><a name="what.1"><b>How should this data set be cited?</b></a><p>
+<blockquote>
+National Atlas of the United States, 201412, 1:1,000,000-Scale Indian Lands of the United States: National Atlas of the United States, Rolla, MO.<p>
+Online Links:
+<ul>
+<li><a href="http://nationalmap.gov/small_scale/atlasftp.html">http://nationalmap.gov/small_scale/atlasftp.html</a>
+</ul>
+<p>
+</blockquote>
+<p>
+</li>
+<li><a name="what.2"><b>What geographic area does the data set cover?</b></a><p>
+<dl>
+<dt><em>West_Bounding_Coordinate:</em>  -132</dt>
+<dt><em>East_Bounding_Coordinate:</em>  -67</dt>
+<dt><em>North_Bounding_Coordinate:</em>  56</dt>
+<dt><em>South_Bounding_Coordinate:</em>  25</dt>
+</dl>
+<p>
+</li>
+<li><a name="what.3"><b>What does it look like?</b></a><p>
+<p>
+</li>
+<li><a name="what.4"><b>Does the data set describe conditions during a particular time period?</b></a><p>
+<dl>
+<dt>Calendar_Date: Dec-2014<dt><em>Currentness_Reference:</em>  Publication date</dt>
+</dl>
+<p>
+</li>
+<li><a name="what.5"><b>What is the general form of this data set?</b></a><p>
+<dl>
+<dt><em>Geospatial_Data_Presentation_Form:</em>  Vector digital data</dt>
+</dl>
+<p>
+</li>
+<li><a name="what.6"><b>How does the data set represent geographic features?</b></a><p>
+<ol type="a">
+<li><a name="what.6.a"><b>How are geographic features stored in the data set?</b></a><p>
+This is a Vector data set.
+It contains the following vector data types (SDTS terminology):
+<ul>
+<li>G-Polygon (558)
+</ul>
+<p>
+</li>
+<li><a name="what.6.b"><b>What coordinate system is used to represent geographic features?</b></a><p>
+Horizontal positions are specified in geographic coordinates, that is, latitude and longitude.
+Latitudes are given to the nearest 0.000278.
+Longitudes are given to the nearest 0.000278.
+Latitude and longitude values are specified in Decimal degrees.
+<p>
+The horizontal datum used is North American Datum of 1983.<br/>
+The ellipsoid used is GRS1980.<br/>
+The semi-major axis of the ellipsoid used is 6378137.<br/>
+The flattening of the ellipsoid used is 1/298.257222.<br/>
+<p>
+</li>
+</ol>
+<p>
+</li>
+<li><a name="what.7"><b>How does the data set describe geographic features?</b></a><p>
+<dl>
+<dt><b><tt>Indian Lands</tt></b><dd>Areas of 320 acres or more administered by the Bureau of Indian Affairs.
+  (Source: National Atlas of the United States)
+<p>
+<dl>
+<dt><b><tt>Shape</tt></b><dd>The representation of the entity in the data.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">Polygon</td><td>2-dimensional element
+</td></tr>
+</table>
+<p>
+<dt><b><tt>Area</tt></b><dd>The size of the area in square miles.  This is a calculated field.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Range of values</th></tr>
+<tr><th>Minimum:</th><td>0.156601</td></tr>
+<tr><th>Maximum:</th><td>21537.387129</td></tr>
+</table>
+<p>
+<dt><b><tt>Perimeter</tt></b><dd>The perimeter of the area in miles.  This is a calculated field.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Range of values</th></tr>
+<tr><th>Minimum:</th><td>1.747836</td></tr>
+<tr><th>Maximum:</th><td>1514.626231</td></tr>
+</table>
+<p>
+<dt><b><tt>Indlanp010</tt></b><dd>Internal feature number.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Range of values</th></tr>
+<tr><th>Minimum:</th><td>152</td></tr>
+<tr><th>Maximum:</th><td>9024</td></tr>
+</table>
+<p>
+<dt><b><tt>Feature1</tt></b><dd>The primary or only type of Federal land.  Where an area represents multiple Federal land types,
+this attribute describes the smaller or 'contained' land.  Areas in this data set will have a
+Federal land type of Indian Reservation in either Feature1, Feature2, or Feature3.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">Indian Reservation</td><td>An area of land reserved for a tribe or tribes under treaty or other agreement with the
+United States, executive order, or federal statute or administrative action as permanent
+tribal homelands, and where the federal government holds title to the land in trust on behalf
+of the tribe.
+</td></tr>
+<tr><td valign="top">Lake</td><td>A water area owned or administered by Bureau of Reclamation.
+</td></tr>
+<tr><td valign="top">National Conservation Area</td><td>Land designated by Congress to conserve, protect, and enhance public land areas for the
+benefit and enjoyment of present and future generations.
+</td></tr>
+<tr><td valign="top">National Game Preserve</td><td>An area designated by Presidential Proclamation or by Congress for the protection of
+wildlife.
+</td></tr>
+<tr><td valign="top">National Monument</td><td>An area administered for the protection of historic landmarks, historic and prehistoric
+structures, or other objects of historic or scientific interest.
+</td></tr>
+<tr><td valign="top">National Park</td><td>A tract of land, having a wide variety of attributes, protected and preserved for the use and
+enjoyment of the public.
+</td></tr>
+<tr><td valign="top">National Wilderness Area</td><td>An area of essentially undisturbed, roadless, public lands of 5000 acres or more, that
+retains a primeval character, without permanent improvements and that generally appears to
+have been affected primarily by the forces of nature.
+</td></tr>
+<tr><td valign="top">National Wildlife Refuge</td><td>A tract of land or water protected for the preservation of wildlife.
+</td></tr>
+<tr><td valign="top">Waterfowl Production Area</td><td>A wetland or grassland critical to waterfowl and other wildlife, managed as part of the
+National Wildlife Refuges Program.
+</td></tr>
+</table>
+<p>
+<dt><b><tt>GNIS_Name1</tt></b><dd>The name of the feature as listed in the Geographic Names Information System (GNIS) database.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">N/A</td><td>There is no name associated with the area in GNIS.
+</td></tr>
+</table>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Formal codeset</th></tr>
+<tr><th>Codeset Name:</th><td>Geographic Names Information System</td></tr>
+<tr><th>Codeset Source:</th><td>U.S. Board on Geographic Names</td></tr>
+</table>
+<p>
+<dt><b><tt>GNIS_ID1</tt></b><dd>The GNIS identifier for the feature.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">N/A</td><td>There is no identifier associated with the area in GNIS.
+</td></tr>
+</table>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Formal codeset</th></tr>
+<tr><th>Codeset Name:</th><td>Geographic Names Information System</td></tr>
+<tr><th>Codeset Source:</th><td>U.S. Board on Geographic Names</td></tr>
+</table>
+<p>
+<dt><b><tt>Admin1</tt></b><dd>A code for the primary owning or administering agency.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">BIA</td><td>Federal land owned or administered by the Bureau of Indian Affairs.
+</td></tr>
+<tr><td valign="top">BLM</td><td>Federal land owned or administered by the Bureau of Land Management.
+</td></tr>
+<tr><td valign="top">BOR</td><td>Federal land owned or administered by the Bureau of Reclamation.
+</td></tr>
+<tr><td valign="top">FWS</td><td>Federal land owned or administered by the Fish and Wildlife Service.
+</td></tr>
+<tr><td valign="top">NPS</td><td>Federal land owned or administered by the National Park Service.
+</td></tr>
+</table>
+<p>
+<dt><b><tt>Feature2</tt></b><dd>The secondary type of Federal land. Where an area represents multiple Federal land types, this
+attribute, in general, describes land that surrounds or 'contains' the land referenced in
+Feature1.  Areas in this data set will have a Federal land type of Indian Reservation in either
+Feature1, Feature2, or Feature3.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">Indian Reservation</td><td>An area of land reserved for a tribe or tribes under treaty or other agreement with the
+United States, executive order, or federal statute or administrative action as permanent
+tribal homelands, and where the federal government holds title to the land in trust on behalf
+of the tribe.
+</td></tr>
+<tr><td valign="top">Land</td><td>A land area owned or administered by the Bureau of Reclamation.
+</td></tr>
+<tr><td valign="top">National Conservation Area</td><td>Land designated by Congress to conserve, protect, and enhance public land areas for the
+benefit and enjoyment of present and future generations.
+</td></tr>
+<tr><td valign="top">National Forest</td><td>An area established for the protection of forest resources.
+</td></tr>
+<tr><td valign="top">National Grassland</td><td>An area designated by the Secretary of Agriculture and permanently held by the Department of
+Agriculture under Title III of the Bankhead-Jones Farm Tenant Act.
+</td></tr>
+<tr><td valign="top">National Wilderness Area</td><td>An area of essentially undisturbed, roadless, public lands of 5000 acres or more, that
+retains a primeval character, without permanent improvements and that generally appears to
+have been affected primarily by the forces of nature.
+</td></tr>
+<tr><td valign="top">National Wildlife Refuge</td><td>A tract of land or water protected for the preservation of wildlife.
+</td></tr>
+<tr><td valign="top">Public Domain Land</td><td>A tract of public land owned by the U.S. Government and administered by the Bureau of Land
+Management, but not designated for a specific use.
+</td></tr>
+<tr><td valign="top">Waterfowl Production Area</td><td>A wetland or grassland critical to waterfowl and other wildlife, managed as part of the
+National Wildlife Refuges Program.
+</td></tr>
+<tr><td valign="top">N/A</td><td>There is no secondary Federal land type.
+</td></tr>
+</table>
+<p>
+<dt><b><tt>GNIS_Name2</tt></b><dd>The name of the secondary feature as listed in the Geographic Names Information System (GNIS)
+database.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">N/A</td><td>There is no secondary Federal land feature or there is no name associated with the secondary
+feature in GNIS.
+</td></tr>
+</table>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Formal codeset</th></tr>
+<tr><th>Codeset Name:</th><td>Geographic Names Information System</td></tr>
+<tr><th>Codeset Source:</th><td>U.S. Board on Geographic Names</td></tr>
+</table>
+<p>
+<dt><b><tt>GNIS_ID2</tt></b><dd>The GNIS identifier for the secondary feature.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">N/A</td><td>There is no secondary Federal land feature, or there is no identifier associated with the
+secondary feature in GNIS.
+</td></tr>
+</table>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Formal codeset</th></tr>
+<tr><th>Codeset Name:</th><td>Geographic Names Information System</td></tr>
+<tr><th>Codeset Source:</th><td>U.S. Board on Geographic Names</td></tr>
+</table>
+<p>
+<dt><b><tt>Admin2</tt></b><dd>A code for the owning or administering agency of the secondary feature.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">BIA</td><td>Federal land owned or administered by the Bureau of Indian Affairs.
+</td></tr>
+<tr><td valign="top">BLM</td><td>Federal land owned or administered by the Bureau of Land Management.
+</td></tr>
+<tr><td valign="top">BOR</td><td>Federal land owned or administered by the Bureau of Reclamation.
+</td></tr>
+<tr><td valign="top">FS</td><td>Federal land owned or administered by the U.S. Forest Service.
+</td></tr>
+<tr><td valign="top">FWS</td><td>Federal land owned or administered by the Fish and Wildlife Service.
+</td></tr>
+<tr><td valign="top">NPS</td><td>Federal land owned or administered by the National Park Service.
+</td></tr>
+<tr><td valign="top">N/A</td><td>There is no secondary Federal land feature.
+</td></tr>
+</table>
+<p>
+<dt><b><tt>Feature3</tt></b><dd>The tertiary type of Federal land.  Where an area represents multiple Federal land types, this
+attribute, in general, describes land that surrounds or 'contains' the land referenced in
+Feature2.  Areas in this data set will have a Federal land type of Indian Reservation in either
+Feature1, Feature2, or Feature3.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">National Conservation Area</td><td>Land designated by Congress to conserve, protect, and enhance public land areas for the
+benefit and enjoyment of present and future generations.
+</td></tr>
+<tr><td valign="top">National Forest</td><td>An area established for the protection of forest resources.
+</td></tr>
+<tr><td valign="top">N/A</td><td>There is no tertiary Federal land type.
+</td></tr>
+</table>
+<p>
+<dt><b><tt>GNIS_Name3</tt></b><dd>The name of the tertiary feature as listed in the Geographic Names Information System (GNIS)
+database.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">N/A</td><td>There is no tertiary Federal land feature or there is no name associated with the tertiary
+feature in GNIS.
+</td></tr>
+</table>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Formal codeset</th></tr>
+<tr><th>Codeset Name:</th><td>Geographic Names Information System</td></tr>
+<tr><th>Codeset Source:</th><td>U.S. Board on Geographic Names</td></tr>
+</table>
+<p>
+<dt><b><tt>GNIS_ID3</tt></b><dd>The GNIS identifier for the tertiary feature.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">N/A</td><td>There is no tertiary Federal land feature or there is no identifier associated with the
+tertiary feature in GNIS.
+</td></tr>
+</table>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Formal codeset</th></tr>
+<tr><th>Codeset Name:</th><td>Geographic Names Information System</td></tr>
+<tr><th>Codeset Source:</th><td>U.S. Board on Geographic Names</td></tr>
+</table>
+<p>
+<dt><b><tt>Admin3</tt></b><dd>A code for the owning or administering agency of the tertiary feature.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">BLM</td><td>Federal land owned or administered by the Bureau of Land Management.
+</td></tr>
+<tr><td valign="top">FS</td><td>Federal land owned or administered by the U.S. Forest Service.
+</td></tr>
+<tr><td valign="top">N/A</td><td>There is no tertiary Federal land feature.
+</td></tr>
+</table>
+<p>
+<dt><b><tt>Url</tt></b><dd>The URL, or Uniform Resource Locator, is the address of a page on the World Wide Web.  The
+address, which provides the basis for establishing an electronic link from a client to the
+physical location of the page on an Internet server, consists of a server name, file path, and
+the page's file name. A URL in this map layer is usually the address of a Federal agency website.
+For example, <a href="http://www.nps.gov/findapark/index.htm">http://www.nps.gov/findapark/index.htm</a> is the address of a National Park Service
+page that allows you to locate a park in the National Park system.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th>Value</th><th>Definition</th></tr>
+<tr><td valign="top">N/A</td><td>No URL is available for the area.
+</td></tr>
+</table>
+<p>
+<em>
+There is no predefined set of valid Uniform Resource Locators.
+</em>
+<p>
+<dt><b><tt>State</tt></b><dd>The 2-character abbreviation for the State or State equivalent in which the Indian land feature
+is located.  If the Federal land feature is in more than one State, the abbreviations are
+separated by dashes: UT-CO.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Formal codeset</th></tr>
+<tr><th>Codeset Name:</th><td>American National Standards Institute (ANSI) Codes for States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States</td></tr>
+<tr><th>Codeset Source:</th><td>U.S. Census Bureau</td></tr>
+</table>
+<p>
+<dt><b><tt>State_fips</tt></b><dd>The 2-digit FIPS code of the State or State equivalent in which the Indian land is located.  If
+the Federal land feature is in more than one State the codes are separated by dashes: 49-08.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Formal codeset</th></tr>
+<tr><th>Codeset Name:</th><td>ANSI Codes for States, the District of Columbia, Puerto Rico, and the Insular Areas of the United States</td></tr>
+<tr><th>Codeset Source:</th><td>U.S. Census Bureau</td></tr>
+</table>
+<p>
+<dt><b><tt>Orig_Name</tt></b><dd>The name of the feature as supplied by the source agency.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<em>
+There is no predefined set of valid orig_names.
+</em>
+<p>
+<dt><b><tt>GIS_acres</tt></b><dd>The size of the area in acres.  This is a calculated field.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Range of values</th></tr>
+<tr><th>Minimum:</th><td>100.224599</td></tr>
+<tr><th>Maximum:</th><td>13783927.762402</td></tr>
+</table>
+<p>
+<dt><b><tt>Shape_leng</tt></b><dd>The perimeter of the area in decimal degrees.  The values for this field are generated by ArcGIS.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Range of values</th></tr>
+<tr><th>Minimum:</th><td>0.030619</td></tr>
+<tr><th>Maximum:</th><td>24.57482</td></tr>
+</table>
+<p>
+<dt><b><tt>Shape_area</tt></b><dd>The size of the area in square decimal degrees.  The values for this field are generated by
+ArcGIS.
+  (Source: National Atlas of the United States)<p></p>
+<p>
+<table border="1" cellpadding="4" cellspacing="0">
+<tr><th colspan="2">Range of values</th></tr>
+<tr><th>Minimum:</th><td>0.000049</td></tr>
+<tr><th>Maximum:</th><td>5.593101</td></tr>
+</table>
+<p>
+</dl>
+<p>
+</dl>
+<p>
+</li>
+</ol>
+<p>
+<hr/>
+<h3><a name="who">Who produced the data set?</a></h3>
+<ol>
+<li><a name="who.1"><b>Who are the originators of the data set?</b></a> (may include formal authors, digital compilers, and editors)<p>
+<ul>
+<li>National Atlas of the United States
+</ul>
+<p>
+</li>
+<li><a name="who.2"><b>Who also contributed to the data set?</b></a><p>
+<p>
+</li>
+<li><a name="who.3"><b>To whom should users address questions about the data?</b></a><p>
+<div style="margin-left: 2em">
+National Geospatial Program, The National Map Small Scale<br/>
+U.S. Geological Survey<br/>
+Reston, VA 20192<br/>
+<p>
+1-888-ASK-USGS (1-888-275-8747) (voice)<br/>
+tnm_help@usgs.gov<br/>
+<dl>
+<dt><em>Contact_Instructions:</em>  
+<dd>
+
+For questions about this map layer or metadata, please contact the National Atlas using the
+information above, or through the U.S. Geological Survey contact page at
+<a href="http://www.usgs.gov/ask/">http://www.usgs.gov/ask/</a>.  For distribution questions, please see the Distribution Information
+elsewhere in this metadata.
+<br/>
+
+</dd>
+</dl>
+</div>
+<p>
+</li>
+</ol>
+<hr/>
+<h3><a name="why">Why was the data set created?</a></h3>
+<blockquote>
+These data are intended for geographic display and analysis at the national level, and for large
+regional areas.  The data should be displayed and analyzed at scales appropriate
+for 1:1,000,000-scale data.  No responsibility is assumed by the National Atlas of the United
+States in the use of these data.
+</blockquote>
+<p>
+<hr/>
+<h3><a name="how">How was the data set created?</a></h3>
+<ol>
+<li><a name="how.1"><b>From what previous works were the data drawn?</b></a><p>
+<dl>
+<dt><b>FedLands2014</b> (source 1 of 1)
+<dd>
+<blockquote>
+National Atlas of the United States, 201411, 1:1,000,000-Scale Federal Lands of the United States: National Atlas of the United States, Rolla, MO.<p>
+</blockquote>
+<dl>
+<dt><em>Type_of_Source_Media:</em>  Internal file</dt>
+<dt><em>Source_Contribution:</em>  Spatial and attribute information</dt>
+</dl>
+<p>
+</dl>
+</li>
+<li><a name="how.2"><b>How were the data generated, processed, and modified?</b></a><p>
+<dl>
+<dt>Date: 2014 (process 1 of 1)
+<dd>
+All lands where the primary, secondary, or tertiary Federal Land type was an Indian Reservation
+were extracted from FedLands2014.  The map layer was saved in shapefile and in file geodatabase
+formats.
+<p>
+Data sources used in this process:
+<ul>
+<li>FedLands2014
+</ul>
+<p>
+</dl>
+</li>
+<li><a name="how.3"><b>What similar or related data should the user be aware of?</b></a><p>
+</li>
+</ol>
+<p>
+<hr/>
+<h3><a name="quality">How reliable are the data; what problems remain in the data set?</a></h3>
+<ol>
+<li><a name="quality.1"><b>How well have the observations been checked?</b></a><p>
+<p>
+</li>
+<li><a name="quality.2"><b>How accurate are the geographic locations?</b></a><p>
+<p>
+</li>
+<li><a name="quality.3"><b>How accurate are the heights or depths?</b></a><p>
+<p>
+</li>
+<li><a name="quality.4"><b>Where are the gaps in the data?  What is missing?</b></a><p>
+This map layer includes Indian reservations in the United States.  The minimum map resolution is 320
+acres. Generally, features under this size are not shown.  Some established Indian lands which are
+larger than the minimum map resolution are not included in this map layer because their boundaries
+were not available from the owning or administering agency.
+<p>
+</li>
+<li><a name="quality.5"><b>How consistent are the relationships among the observations, including topology?</b></a><p>
+The map layer was checked for topological consistency using ArcGIS.  No other checks for logical
+consistency were performed on this map layer.
+</li>
+</ol>
+<p>
+<hr/>
+<h3><a name="getacopy">How can someone get a copy of the data set?</a></h3>
+<blockquote>
+<a name="getacopy.0"><b>Are there legal restrictions on access or use of the data?</b></a><p>
+<blockquote>
+<dl>
+<dt><em>Access_Constraints:</em>  None</dt>
+<dt><em>Use_Constraints:</em>  
+<dd>
+
+None.  Acknowledgment of The National Atlas of the United States of America would be appreciated in
+products derived from these data.
+
+</dd>
+</dl>
+</blockquote>
+</blockquote>
+<p>
+<ol>
+<li><a name="getacopy.1"><b>Who distributes the data set?</b></a> (Distributor 1 of 1)<p>
+<div style="margin-left: 2em">
+Earth Explorer, U.S. Geological Survey<br/>
+U.S. Geological Survey<br/>
+Sioux Falls, SD 57198-0001<br/>
+<p>
+605-594-6116 (voice)<br/>
+custserv@usgs.gov<br/>
+</div>
+</li>
+<li><a name="getacopy.2"><b>What's the catalog number I need to order this data set?</b></a><p>
+</li>
+<li><a name="getacopy.3"><b>What legal disclaimers am I supposed to read?</b></a><p>
+<blockquote>
+Although these data have been processed successfully on a computer system at the U.S. Geological
+Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility
+of the data on any other system, nor shall the act of distribution constitute any such warranty.
+No responsibility is assumed by the U.S. Geological Survey in the use of these data.
+</blockquote>
+<p>
+</li>
+<li><a name="getacopy.4"><b>How can I download or order the data?</b></a><p>
+<ul>
+<li><b>Availability in digital form:</b><p>
+<table border="0" cellpadding="2">
+<tr><th align="left" valign="top">Data&nbsp;format:</th>
+<td>
+ESRI Shapefile
+
+</td>
+</tr>
+<tr><th align="left" valign="top">Network&nbsp;links:</th>
+<td>
+<a href="http://nationalmap.gov/small_scale/atlasftp.html">http://nationalmap.gov/small_scale/atlasftp.html</a><br/>
+</td>
+</tr>
+</table>
+<p>
+<table border="0" cellpadding="2">
+<tr><th align="left" valign="top">Data&nbsp;format:</th>
+<td>
+ESRI File Geodatabase 10.0
+
+</td>
+</tr>
+<tr><th align="left" valign="top">Network&nbsp;links:</th>
+<td>
+<a href="http://nationalmap.gov/small_scale/atlasftp.html">http://nationalmap.gov/small_scale/atlasftp.html</a><br/>
+</td>
+</tr>
+</table>
+<p>
+<table border="0" cellpadding="2">
+<tr><th align="left" valign="top">Data&nbsp;format:</th>
+<td>
+Web Map Service (WMS)
+
+</td>
+</tr>
+<tr><th align="left" valign="top">Network&nbsp;links:</th>
+<td>
+&lt;<a href="http://webservices.nationalatlas.gov/wms/boundaries?SERVICE=WMS&REQUEST=GetCapabilities">http://webservices.nationalatlas.gov/wms/boundaries?SERVICE=WMS&REQUEST=GetCapabilities</a>&gt;<br/>
+&lt;<a href="http://webservices.nationalatlas.gov/wms/1million?SERVICE=WMS&REQUEST=GetCapabilities">http://webservices.nationalatlas.gov/wms/1million?SERVICE=WMS&REQUEST=GetCapabilities</a>&gt;<br/>
+&lt;<a href="http://webservices.nationalatlas.gov/wms?SERVICE=WMS&REQUEST=GetCapabilities">http://webservices.nationalatlas.gov/wms?SERVICE=WMS&REQUEST=GetCapabilities</a>&gt; <br/>
+</td>
+</tr>
+</table>
+<p>
+<li><b>Cost to order the data:</b> None<p>
+</ul>
+<p>
+</li>
+</ol>
+<p>
+<hr/>
+<h3><a name="metaref">Who wrote the metadata?</a></h3>
+<dl>
+<dt>Dates:
+<dd>Last modified: 11-Dec-2014<br/>
+</dd>
+<dt>Metadata author:
+<dd>
+<div style="margin-left: 2em">
+National Geospatial Program, The National Map Small Scale<br/>
+U.S. Geological Survey<br/>
+Reston, VA 20192<br/>
+<p>
+1-888-ASK-USGS (1-888-275-8747) (voice)<br/>
+tnm_help@usgs.gov<br/>
+</div>
+</dd>
+<dt>Metadata standard: <dd>FGDC Content Standard for Digital Geospatial Metadata (FGDC-STD-001-1998)</dl>
+<p></p>
+<hr/>
+<span class="mp-generated">Generated by <a href="http://geology.usgs.gov/tools/metadata/tools/doc/mp.html"><tt>mp</tt></a> version 2.9.27 on Fri Dec 12 09:49:12 2014<br/></span>
+
+</body>
+</html>

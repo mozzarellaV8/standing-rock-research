@@ -1,0 +1,775 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: National Atlas of the United States
+        Publication_Date: 201412
+        Title: 1:1,000,000-Scale Indian Lands of the United States
+        Geospatial_Data_Presentation_Form: Vector digital data
+        Publication_Information:
+          Publication_Place: Rolla, MO
+          Publisher: National Atlas of the United States
+        Online_Linkage: http://nationalmap.gov/small_scale/atlasftp.html
+    Description:
+      Abstract:
+        This map layer shows Indian lands of the United States.  For the most part, only areas of 320 acres 
+        or more are included; some smaller areas deemed to be important or significant are also included. 
+        Federally-administered lands within a reservation are included for continuity; these may or may not 
+        be considered part of the reservation and are simply described with their feature type and the 
+        administrating Federal agency.  Some established Indian lands which are larger than 320 acres are 
+        not included in this map layer because their boundaries were not available from the owning or 
+        administering agency.
+      Purpose:
+        These data are intended for geographic display and analysis at the national level, and for large 
+        regional areas.  The data should be displayed and analyzed at scales appropriate 
+        for 1:1,000,000-scale data.  No responsibility is assumed by the National Atlas of the United 
+        States in the use of these data.
+      Supplemental_Information:
+        Information about National Atlas Web services can be found on the Web Map and Web Feature Services 
+        page; see http://nationalmap.gov/small_scale/infodocs/webservices.html.
+
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Single_Date/Time:
+          Calendar_Date: 201412
+      Currentness_Reference: Publication date
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: Irregular
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: -132  
+        East_Bounding_Coordinate: -67 
+        North_Bounding_Coordinate: 56  
+        South_Bounding_Coordinate: 25  
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: Boundaries
+        Theme_Keyword: Society
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: Bureau of Indian Affairs
+        Theme_Keyword: Bureau of Land Management
+        Theme_Keyword: Bureau of Reclamation
+        Theme_Keyword: Fish and Wildlife Service
+        Theme_Keyword: Indian lands
+        Theme_Keyword: Indian Reservation
+        Theme_Keyword: National Conservation Area
+        Theme_Keyword: National Forest
+        Theme_Keyword: National Game Preserve
+        Theme_Keyword: National Grassland
+        Theme_Keyword: National Monument
+        Theme_Keyword: National Park
+        Theme_Keyword: National Park Service
+        Theme_Keyword: National Wilderness Area
+        Theme_Keyword: National Wildlife Refuge
+        Theme_Keyword: Public Domain Land
+        Theme_Keyword: Waterfowl Production Area
+        Theme_Keyword: BIA
+        Theme_Keyword: BLM
+        Theme_Keyword: BOR
+        Theme_Keyword: FWS
+        Theme_Keyword: NPS
+      Place:
+        Place_Keyword_Thesaurus:
+          Organization for International Standards, 2008, ISO 3166 Country Codes,
+          https://www.iso.org/obp/ui/#search.
+        Place_Keyword: United States
+        Place_Keyword: US
+      Place:
+        Place_Keyword_Thesaurus: None
+        Place_Keyword: USA
+      Place:
+        Place_Keyword_Thesaurus:
+          U.S. Department of Commerce; 2013; American National Standards Institute (ANSI) Codes for States, 
+          the District of Columbia, Puerto Rico, and the Insular Areas of the United States; 
+          Washington, DC; U.S. Census Bureau; http://www.census.gov/geo/reference/ansi_statetables.html.
+        Place_Keyword: Alabama
+        Place_Keyword: Alaska
+        Place_Keyword: Arizona
+        Place_Keyword: Arkansas
+        Place_Keyword: California
+        Place_Keyword: Colorado
+        Place_Keyword: Connecticut
+        Place_Keyword: Delaware
+        Place_Keyword: District of Columbia
+        Place_Keyword: Florida
+        Place_Keyword: Georgia
+        Place_Keyword: Hawaii
+        Place_Keyword: Idaho
+        Place_Keyword: Illinois
+        Place_Keyword: Indiana
+        Place_Keyword: Iowa
+        Place_Keyword: Kansas
+        Place_Keyword: Kentucky
+        Place_Keyword: Louisiana
+        Place_Keyword: Maine
+        Place_Keyword: Maryland
+        Place_Keyword: Massachusetts
+        Place_Keyword: Michigan
+        Place_Keyword: Minnesota
+        Place_Keyword: Mississippi
+        Place_Keyword: Missouri
+        Place_Keyword: Montana
+        Place_Keyword: Nebraska
+        Place_Keyword: Nevada
+        Place_Keyword: New Hampshire
+        Place_Keyword: New Jersey
+        Place_Keyword: New Mexico
+        Place_Keyword: New York
+        Place_Keyword: North Carolina
+        Place_Keyword: North Dakota
+        Place_Keyword: Ohio
+        Place_Keyword: Oklahoma
+        Place_Keyword: Oregon
+        Place_Keyword: Pennsylvania
+        Place_Keyword: Rhode Island
+        Place_Keyword: South Carolina
+        Place_Keyword: South Dakota
+        Place_Keyword: Tennessee
+        Place_Keyword: Texas
+        Place_Keyword: Utah
+        Place_Keyword: Vermont
+        Place_Keyword: Virginia
+        Place_Keyword: Washington
+        Place_Keyword: West Virginia
+        Place_Keyword: Wisconsin
+        Place_Keyword: Wyoming
+    Access_Constraints: None
+    Use_Constraints:
+      None.  Acknowledgment of The National Atlas of the United States of America would be appreciated in 
+      products derived from these data.
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: National Geospatial Program, The National Map Small Scale
+        Contact_Address:
+          Address_Type: Mailing and physical address
+          Address: U.S. Geological Survey
+          Address: 511 National Center
+          Address: 12201 Sunrise Valley Drive 
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Electronic_Mail_Address: tnm_help@usgs.gov
+        Contact_Instructions:
+          For questions about this map layer or metadata, please contact the National Atlas using the 
+          information above, or through the U.S. Geological Survey contact page at 
+          http://www.usgs.gov/ask/.  For distribution questions, please see the Distribution Information 
+          elsewhere in this metadata. 
+
+  Data_Quality_Information:
+    Logical_Consistency_Report:
+      The map layer was checked for topological consistency using ArcGIS.  No other checks for logical 
+      consistency were performed on this map layer.
+    Completeness_Report:
+      This map layer includes Indian reservations in the United States.  The minimum map resolution is 320 
+      acres. Generally, features under this size are not shown.  Some established Indian lands which are 
+      larger than the minimum map resolution are not included in this map layer because their boundaries 
+      were not available from the owning or administering agency.
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: National Atlas of the United States
+            Publication_Date: 201411
+            Title: 1:1,000,000-Scale Federal Lands of the United States 
+            Geospatial_Data_Presentation_Form: Vector digital data
+            Publication_Information:
+              Publication_Place: Rolla, MO
+              Publisher: National Atlas of the United States
+        Type_of_Source_Media: Internal file
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 201411
+          Source_Currentness_Reference: Publication date
+        Source_Citation_Abbreviation: FedLands2014
+        Source_Contribution: Spatial and attribute information
+
+      Process_Step:
+        Process_Description:
+          All lands where the primary, secondary, or tertiary Federal Land type was an Indian Reservation 
+          were extracted from FedLands2014.  The map layer was saved in shapefile and in file geodatabase 
+          formats.
+        Source_Used_Citation_Abbreviation: FedLands2014
+        Process_Date: 2014
+
+  Spatial_Data_Organization_Information:
+    Direct_Spatial_Reference_Method: Vector
+    Point_and_Vector_Object_Information:
+      SDTS_Terms_Description:
+        SDTS_Point_and_Vector_Object_Type: G-Polygon 
+        Point_and_Vector_Object_Count: 558
+
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Geographic:
+        Latitude_Resolution: 0.000278
+        Longitude_Resolution: 0.000278
+        Geographic_Coordinate_Units: Decimal degrees
+      Geodetic_Model:
+        Horizontal_Datum_Name: North American Datum of 1983
+        Ellipsoid_Name: GRS1980
+        Semi-major_Axis: 6378137
+        Denominator_of_Flattening_Ratio: 298.257222
+
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Indian Lands
+        Entity_Type_Definition:
+          Areas of 320 acres or more administered by the Bureau of Indian Affairs.
+        Entity_Type_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Shape
+        Attribute_Definition: The representation of the entity in the data.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Polygon
+            Enumerated_Domain_Value_Definition: 2-dimensional element
+            Enumerated_Domain_Value_Definition_Source: ESRI GIS software
+      Attribute:
+        Attribute_Label: Area
+        Attribute_Definition:
+          The size of the area in square miles.  This is a calculated field.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.156601
+            Range_Domain_Maximum: 21537.387129
+      Attribute:
+        Attribute_Label: Perimeter
+        Attribute_Definition:
+          The perimeter of the area in miles.  This is a calculated field.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1.747836
+            Range_Domain_Maximum: 1514.626231
+      Attribute:
+        Attribute_Label: Indlanp010
+        Attribute_Definition: Internal feature number.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 152
+            Range_Domain_Maximum: 9024
+      Attribute:
+        Attribute_Label: Feature1
+        Attribute_Definition: 
+          The primary or only type of Federal land.  Where an area represents multiple Federal land types, 
+          this attribute describes the smaller or 'contained' land.  Areas in this data set will have a 
+          Federal land type of Indian Reservation in either Feature1, Feature2, or Feature3.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Indian Reservation
+            Enumerated_Domain_Value_Definition: 
+              An area of land reserved for a tribe or tribes under treaty or other agreement with the 
+              United States, executive order, or federal statute or administrative action as permanent 
+              tribal homelands, and where the federal government holds title to the land in trust on behalf 
+              of the tribe.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Lake
+            Enumerated_Domain_Value_Definition: 
+              A water area owned or administered by Bureau of Reclamation.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Conservation Area
+            Enumerated_Domain_Value_Definition: 
+              Land designated by Congress to conserve, protect, and enhance public land areas for the 
+              benefit and enjoyment of present and future generations.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Game Preserve
+            Enumerated_Domain_Value_Definition: 
+              An area designated by Presidential Proclamation or by Congress for the protection of 
+              wildlife.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Monument
+            Enumerated_Domain_Value_Definition: 
+              An area administered for the protection of historic landmarks, historic and prehistoric 
+              structures, or other objects of historic or scientific interest.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Park
+            Enumerated_Domain_Value_Definition: 
+              A tract of land, having a wide variety of attributes, protected and preserved for the use and 
+              enjoyment of the public.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Wilderness Area
+            Enumerated_Domain_Value_Definition: 
+              An area of essentially undisturbed, roadless, public lands of 5000 acres or more, that 
+              retains a primeval character, without permanent improvements and that generally appears to 
+              have been affected primarily by the forces of nature.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Wildlife Refuge
+            Enumerated_Domain_Value_Definition: 
+              A tract of land or water protected for the preservation of wildlife.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Waterfowl Production Area
+            Enumerated_Domain_Value_Definition: 
+              A wetland or grassland critical to waterfowl and other wildlife, managed as part of the 
+              National Wildlife Refuges Program.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: GNIS_Name1
+        Attribute_Definition: 
+          The name of the feature as listed in the Geographic Names Information System (GNIS) database.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Geographic Names Information System
+            Codeset_Source: U.S. Board on Geographic Names
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: N/A
+            Enumerated_Domain_Value_Definition: There is no name associated with the area in GNIS.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: GNIS_ID1
+        Attribute_Definition: The GNIS identifier for the feature.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Geographic Names Information System
+            Codeset_Source: U.S. Board on Geographic Names
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: N/A
+            Enumerated_Domain_Value_Definition: There is no identifier associated with the area in GNIS.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Admin1
+        Attribute_Definition: A code for the primary owning or administering agency.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BIA
+            Enumerated_Domain_Value_Definition:
+              Federal land owned or administered by the Bureau of Indian Affairs.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BLM
+            Enumerated_Domain_Value_Definition:
+              Federal land owned or administered by the Bureau of Land Management.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BOR
+            Enumerated_Domain_Value_Definition:
+              Federal land owned or administered by the Bureau of Reclamation.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: FWS
+            Enumerated_Domain_Value_Definition:
+              Federal land owned or administered by the Fish and Wildlife Service.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: NPS
+            Enumerated_Domain_Value_Definition:
+              Federal land owned or administered by the National Park Service.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Feature2
+        Attribute_Definition: 
+          The secondary type of Federal land. Where an area represents multiple Federal land types, this 
+          attribute, in general, describes land that surrounds or 'contains' the land referenced in 
+          Feature1.  Areas in this data set will have a Federal land type of Indian Reservation in either 
+          Feature1, Feature2, or Feature3.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Indian Reservation
+            Enumerated_Domain_Value_Definition: 
+              An area of land reserved for a tribe or tribes under treaty or other agreement with the 
+              United States, executive order, or federal statute or administrative action as permanent 
+              tribal homelands, and where the federal government holds title to the land in trust on behalf 
+              of the tribe.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Land
+            Enumerated_Domain_Value_Definition: 
+              A land area owned or administered by the Bureau of Reclamation.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Conservation Area
+            Enumerated_Domain_Value_Definition: 
+              Land designated by Congress to conserve, protect, and enhance public land areas for the 
+              benefit and enjoyment of present and future generations.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Forest
+            Enumerated_Domain_Value_Definition: An area established for the protection of forest resources.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Grassland
+            Enumerated_Domain_Value_Definition: 
+              An area designated by the Secretary of Agriculture and permanently held by the Department of 
+              Agriculture under Title III of the Bankhead-Jones Farm Tenant Act.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Wilderness Area
+            Enumerated_Domain_Value_Definition: 
+              An area of essentially undisturbed, roadless, public lands of 5000 acres or more, that 
+              retains a primeval character, without permanent improvements and that generally appears to 
+              have been affected primarily by the forces of nature.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Wildlife Refuge
+            Enumerated_Domain_Value_Definition: 
+              A tract of land or water protected for the preservation of wildlife.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Public Domain Land
+            Enumerated_Domain_Value_Definition: 
+              A tract of public land owned by the U.S. Government and administered by the Bureau of Land 
+              Management, but not designated for a specific use.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: Waterfowl Production Area
+            Enumerated_Domain_Value_Definition: 
+              A wetland or grassland critical to waterfowl and other wildlife, managed as part of the 
+              National Wildlife Refuges Program.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: N/A
+            Enumerated_Domain_Value_Definition: There is no secondary Federal land type.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: GNIS_Name2
+        Attribute_Definition: 
+          The name of the secondary feature as listed in the Geographic Names Information System (GNIS) 
+          database.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Geographic Names Information System
+            Codeset_Source: U.S. Board on Geographic Names
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: N/A
+            Enumerated_Domain_Value_Definition: 
+              There is no secondary Federal land feature or there is no name associated with the secondary 
+              feature in GNIS.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: GNIS_ID2
+        Attribute_Definition: The GNIS identifier for the secondary feature.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Geographic Names Information System
+            Codeset_Source: U.S. Board on Geographic Names
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: N/A
+            Enumerated_Domain_Value_Definition: 
+              There is no secondary Federal land feature, or there is no identifier associated with the 
+              secondary feature in GNIS.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Admin2
+        Attribute_Definition: A code for the owning or administering agency of the secondary feature.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BIA
+            Enumerated_Domain_Value_Definition:
+              Federal land owned or administered by the Bureau of Indian Affairs.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BLM
+            Enumerated_Domain_Value_Definition:
+              Federal land owned or administered by the Bureau of Land Management.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BOR
+            Enumerated_Domain_Value_Definition:
+              Federal land owned or administered by the Bureau of Reclamation.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: FS
+            Enumerated_Domain_Value_Definition:
+              Federal land owned or administered by the U.S. Forest Service.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: FWS
+            Enumerated_Domain_Value_Definition:
+              Federal land owned or administered by the Fish and Wildlife Service.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: NPS
+            Enumerated_Domain_Value_Definition:
+              Federal land owned or administered by the National Park Service.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: N/A
+            Enumerated_Domain_Value_Definition: There is no secondary Federal land feature.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Feature3
+        Attribute_Definition: 
+          The tertiary type of Federal land.  Where an area represents multiple Federal land types, this 
+          attribute, in general, describes land that surrounds or 'contains' the land referenced in 
+          Feature2.  Areas in this data set will have a Federal land type of Indian Reservation in either 
+          Feature1, Feature2, or Feature3.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Conservation Area
+            Enumerated_Domain_Value_Definition:
+              Land designated by Congress to conserve, protect, and enhance public land areas for the 
+              benefit and enjoyment of present and future generations.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: National Forest
+            Enumerated_Domain_Value_Definition: An area established for the protection of forest resources.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: N/A
+            Enumerated_Domain_Value_Definition: There is no tertiary Federal land type.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: GNIS_Name3
+        Attribute_Definition: 
+          The name of the tertiary feature as listed in the Geographic Names Information System (GNIS) 
+          database.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Geographic Names Information System
+            Codeset_Source: U.S. Board on Geographic Names
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: N/A
+            Enumerated_Domain_Value_Definition: 
+              There is no tertiary Federal land feature or there is no name associated with the tertiary 
+              feature in GNIS.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: GNIS_ID3
+        Attribute_Definition: The GNIS identifier for the tertiary feature.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Geographic Names Information System
+            Codeset_Source: U.S. Board on Geographic Names
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: N/A
+            Enumerated_Domain_Value_Definition: 
+              There is no tertiary Federal land feature or there is no identifier associated with the 
+              tertiary feature in GNIS.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: Admin3
+        Attribute_Definition: A code for the owning or administering agency of the tertiary feature.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: BLM
+            Enumerated_Domain_Value_Definition:
+              Federal land owned or administered by the Bureau of Land Management.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: FS
+            Enumerated_Domain_Value_Definition:
+              Federal land owned or administered by the U.S. Forest Service.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: N/A
+            Enumerated_Domain_Value_Definition: There is no tertiary Federal land feature.
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute: 
+        Attribute_Label: Url
+        Attribute_Definition: 
+          The URL, or Uniform Resource Locator, is the address of a page on the World Wide Web.  The 
+          address, which provides the basis for establishing an electronic link from a client to the 
+          physical location of the page on an Internet server, consists of a server name, file path, and 
+          the page's file name. A URL in this map layer is usually the address of a Federal agency website. 
+          For example, http://www.nps.gov/findapark/index.htm is the address of a National Park Service 
+          page that allows you to locate a park in the National Park system.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values: 
+          Unrepresentable_Domain: 
+            There is no predefined set of valid Uniform Resource Locators. 
+        Attribute_Domain_Values: 
+          Enumerated_Domain: 
+            Enumerated_Domain_Value: N/A
+            Enumerated_Domain_Value_Definition: No URL is available for the area. 
+            Enumerated_Domain_Value_Definition_Source: National Atlas of the United States
+      Attribute:
+        Attribute_Label: State
+        Attribute_Definition: 
+          The 2-character abbreviation for the State or State equivalent in which the Indian land feature 
+          is located.  If the Federal land feature is in more than one State, the abbreviations are 
+          separated by dashes: UT-CO.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name:
+              American National Standards Institute (ANSI) Codes for States, the District of Columbia, 
+              Puerto Rico, and the Insular Areas of the United States
+            Codeset_Source: U.S. Census Bureau
+      Attribute:
+        Attribute_Label: State_fips
+        Attribute_Definition: 
+          The 2-digit FIPS code of the State or State equivalent in which the Indian land is located.  If 
+          the Federal land feature is in more than one State the codes are separated by dashes: 49-08.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name:
+              ANSI Codes for States, the District of Columbia, Puerto Rico, and the Insular Areas of the 
+              United States
+            Codeset_Source: U.S. Census Bureau
+      Attribute:
+        Attribute_Label: Orig_Name
+        Attribute_Definition: The name of the feature as supplied by the source agency. 
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: There is no predefined set of valid orig_names.
+      Attribute:
+        Attribute_Label: GIS_acres
+        Attribute_Definition:
+          The size of the area in acres.  This is a calculated field.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 100.224599
+            Range_Domain_Maximum: 13783927.762402
+      Attribute:
+        Attribute_Label: Shape_leng
+        Attribute_Definition:
+          The perimeter of the area in decimal degrees.  The values for this field are generated by ArcGIS.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.030619
+            Range_Domain_Maximum: 24.57482
+      Attribute:
+        Attribute_Label: Shape_area
+        Attribute_Definition:
+          The size of the area in square decimal degrees.  The values for this field are generated by 
+          ArcGIS.
+        Attribute_Definition_Source: National Atlas of the United States
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0.000049
+            Range_Domain_Maximum: 5.593101
+
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: Earth Explorer, U.S. Geological Survey
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: U.S. Geological Survey
+          Address: 47914 252nd Street
+          City: Sioux Falls
+          State_or_Province: SD
+          Postal_Code: 57198-0001
+        Contact_Voice_Telephone: 605-594-6116
+        Contact_Voice_Telephone: 866-573-3222
+        Contact_Electronic_Mail_Address: custserv@usgs.gov
+    Distribution_Liability:
+      Although these data have been processed successfully on a computer system at the U.S. Geological 
+      Survey, no warranty expressed or implied is made by the U.S. Geological Survey regarding the utility 
+      of the data on any other system, nor shall the act of distribution constitute any such warranty.  
+      No responsibility is assumed by the U.S. Geological Survey in the use of these data.
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: ESRI Shapefile
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://nationalmap.gov/small_scale/atlasftp.html
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: ESRI File Geodatabase 10.0
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://nationalmap.gov/small_scale/atlasftp.html
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: Web Map Service (WMS)
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: 
+                  <http://webservices.nationalatlas.gov/wms/boundaries?SERVICE=WMS&REQUEST=GetCapabilities> 
+                Network_Resource_Name: 
+                  <http://webservices.nationalatlas.gov/wms/1million?SERVICE=WMS&REQUEST=GetCapabilities>
+                Network_Resource_Name:                   
+                  <http://webservices.nationalatlas.gov/wms?SERVICE=WMS&REQUEST=GetCapabilities>
+
+      Fees: None
+
+  Metadata_Reference_Information:
+    Metadata_Date: 20141211
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: National Geospatial Program, The National Map Small Scale
+        Contact_Address:
+          Address_Type: Mailing address
+          Address: U.S. Geological Survey
+          Address: 511 National Center
+          Address: 12201 Sunrise Valley Drive 
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+        Contact_Electronic_Mail_Address: tnm_help@usgs.gov
+    Metadata_Standard_Name: FGDC Content Standard for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Security_Information:
+      Metadata_Security_Classification_System: None
+      Metadata_Security_Classification: Unclassified
+      Metadata_Security_Handling_Description: None
