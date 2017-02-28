@@ -10,11 +10,11 @@ The hope here is to continue developing better understanding of these issues, an
 
 Suggestions and contributions are more than welcome - feel free to email me or create a new issue. 
 
-_pete.deevakul@gmail.com_
-
-## Broad Strokes
+_mozzarella@protonmail.com_
 
 - [Data](data)
+
+## Broad Strokes
 
 ### Research Areas and Data
 - **Spatial** - USGS archives, OpenStreetMap
