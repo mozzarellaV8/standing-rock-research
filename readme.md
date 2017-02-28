@@ -12,12 +12,16 @@ Suggestions and contributions are more than welcome - feel free to email me or c
 
 _mozzarella@protonmail.com_
 
+# Data
+
 - [Data Main](data)
 - [Energy Information Administration](data/EIA)
 - [U.S. Geological Survey](data/USGS)
 - [Environmental Protection Agency](data/EPA)
 
 ## Broad Strokes
+
+aka TODO
 
 ### Research Areas and Data
 - **Spatial** - USGS archives, OpenStreetMap
