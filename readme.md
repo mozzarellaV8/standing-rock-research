@@ -12,14 +12,17 @@ Suggestions and contributions are more than welcome - feel free to email me or c
 
 _mozzarella@protonmail.com_
 
-- [Data](data)
+- [Data Main](data)
+- [Energy Information Administration](data/EIA)
+- [U.S. Geological Survey](data/USGS)
+- [Environmental Protection Agency](data/EPA)
 
 ## Broad Strokes
 
 ### Research Areas and Data
 - **Spatial** - USGS archives, OpenStreetMap
 - **Environmental** - EPA, EIA
-- **Scientific** - Chemistry/VOCs
+- **Scientific** - Chemistry/VOCs volatile organic compounds
 - **H<sub>2</sub>0** - collection & sampling best practices; VOCs
 - **Oil** - this subheading's gonna sprawl; benzene (C<sub>6</sub>H<sub>6</sub>); Hydraulic Fracturing
 - **Coal** - mountaintop removal; labor abuses
