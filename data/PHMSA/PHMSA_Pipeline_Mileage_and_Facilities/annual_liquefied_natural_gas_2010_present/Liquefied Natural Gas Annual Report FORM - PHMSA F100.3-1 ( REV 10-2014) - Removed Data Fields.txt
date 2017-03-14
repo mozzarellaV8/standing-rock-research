@@ -1,0 +1,48 @@
+Liquefied Natural Gas Annual Report FORM - PHMSA F100.3-1 ( REV 10-2014) - REMOVED FIELDS 
+
+===================================================================================================================
+The table shows the field names that are removed. For Annual Report from 2015 and forward, values are zero
+===================================================================================================================
+
+
+===================================================================================================================
+The following fields are leaks and reportable incidents in past year -  Removed field names in PART C on the form
+===================================================================================================================
+
+		
+PARTCECINC		External Corrosion Incident
+PARTCICINC		Internal Corrosion Incident
+PARTCNFDMGINC		Natural Force Damage Incident
+PARTCEXDMGINC		Excavation Damage Incident
+PARTCOUTDMGINC		Other Outside Force Damage Incident
+PARTCCIFINC		Construction-, Installation-, or
+Fabrication-related Incident
+PARTCMFGINC		Original Manufacturing-related Incident
+PARTCLOWTEMPINC		Low Temperature Embrittlement Incident
+PARTCEQUIPFINC		Equipment Failure Incident
+PARTCINOPERINC		Incorrect Operation Incident
+PARTCOCAUSEINC		Other Causes Incident
+PARTCINCTOTAL		Total of Incident by Cause
+
+===================================================================================================================
+The following fields are other conditions and event - Removed field names in PART D on the form
+===================================================================================================================
+
+
+PARTDROLLSRC		Number of Safety-Related Conditions Reported by Rollover
+PARTDSBREACHSRC		Number of Safety-Related Conditions Reported by Security Breach
+PARTDFALSESIGNALSRC	Number of Safety-Related Conditions Reported by False Signal
+PARTDMNTENANCESRC	Number of Safety-Related Conditions Reported by Maintenance or other
+non- emergency event"
+PARTDINSDEGSRC		Number of Safety-Related Conditions Reported by Insulation Degradation
+PARTDOTHTYPESRC		Number of Safety-Related Conditions Reported by Other Types
+PARTDSRCTOTAL		Total of Safety-Related Conditions Reported
+PARTDROLLTOTAL		Total of Rollover
+PARTDSBREACHTOTAL	Total of Security Breach
+PARTDFALSESIGNALTOTAL	Total of  False Signal
+PARTDMNTENANCETOTAL	Total of Maintenance or other non- emergency event
+PARTDINSDEGTOTAL	Total of  Insulation Degradation
+PARTDOTHTYPETOTAL	Total of Other Types
+PARTDTOTAL		Total of  CONDITIONS AND EVENTS
+
+
