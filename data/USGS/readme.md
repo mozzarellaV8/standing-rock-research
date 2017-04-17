@@ -21,6 +21,10 @@ This map portrays the results of cases before the U.S. Indian Claims Commission 
 - Projection: Albers Equal Area Projection
 - Scale: 4000000
 
+**Map Name** - date created, download date, source, file format, file size
+
+- **[Indian land areas judicially established](Indian-Lands-plate-1.pdf)**, 197 - 04.15.2017, [source](https://pubs.er.usgs.gov/publication/70114965), PDF, _~6 MB_
+
 ## Topographic Maps
 
 US Topo topographic maps are produced by the National Geospatial Program of the U.S. Geological Survey (USGS). The project was launched in late 2009, and the term “US Topo” refers specifically to quadrangle topographic maps published in 2009 and later. These maps are modeled on the familiar 7.5-minute quadrangle maps of the period 1947-1992, but are mass-produced from national GIS databases on a repeating cycle. US Topo maps repackage geographic information system (GIS) data in traditional map form; this benefits non-specialist map users, as well as applications that need traditional maps.
