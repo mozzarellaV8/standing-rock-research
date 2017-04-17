@@ -6,4 +6,6 @@ While this may seem redundant to what is already available online, recent initia
 
 
 - [U.S. Energy Information Administration (EIA)](EIA) - e.g. crude oil pipelines, crude oil railways, HGL pipelines
+- [Environmental Protection Agency](EPA)
 - [U.S. Geological Survey (USGS)](USGS) - e.g. topographical maps - specifically of Standing Rock region, but the entire country is available. Really beautiful and high-resolution maps in PDF format, with some localities having multiple maps over time by the USGS release schedule (e.g. Detroit in 1913, Detroit in 1964)
+- [Pipeline and Hazardous Materials Safety Administration](PHMSA)
