@@ -1,6 +1,27 @@
 # United States Geological Survey
 
-#### Topographic Maps
+## Indian Land Areas
+
+![Indian land areas judicially established](Indian-Lands-plate-1.jpg)
+
+_Indian land areas judicially established, Prepared under the direction of the Indian Claims Commission_, [US Geological Survey](https://pubs.er.usgs.gov/publication/70114965), 1978. 
+
+This map portrays the results of cases before the U.S. Indian Claims Commission or U.S. Court of Claims in which an American Indian tribe proved its original tribal occupancy of a tract within the continental United States.
+
+- Publication type: Report
+- Publication Subtype: USGS Unnumbered Series
+- Title: Indian land areas judicially established
+- DOI: 10.3133/70114965
+- Year Published: 1978
+- Language: English
+- Publisher: U.S. Geological Survey
+- Publisher location: Reston, VA
+- Description: 50.16 x 37.95 inches
+- Country: United States
+- Projection: Albers Equal Area Projection
+- Scale: 4000000
+
+## Topographic Maps
 
 US Topo topographic maps are produced by the National Geospatial Program of the U.S. Geological Survey (USGS). The project was launched in late 2009, and the term “US Topo” refers specifically to quadrangle topographic maps published in 2009 and later. These maps are modeled on the familiar 7.5-minute quadrangle maps of the period 1947-1992, but are mass-produced from national GIS databases on a repeating cycle. US Topo maps repackage geographic information system (GIS) data in traditional map form; this benefits non-specialist map users, as well as applications that need traditional maps.
 
