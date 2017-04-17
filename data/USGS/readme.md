@@ -4,7 +4,9 @@
 
 ![Indian land areas judicially established](Indian-Lands-plate-1.jpg)
 
-_Indian land areas judicially established, Prepared under the direction of the Indian Claims Commission_, [US Geological Survey](https://pubs.er.usgs.gov/publication/70114965), 1978. 
+**Map Name** - date created, download date, source, file format, file size
+
+- **[Indian land areas judicially established](Indian-Lands-plate-1.pdf)**, 1978 - 04.15.2017, [source](https://pubs.er.usgs.gov/publication/70114965), PDF, _~6 MB_
 
 This map portrays the results of cases before the U.S. Indian Claims Commission or U.S. Court of Claims in which an American Indian tribe proved its original tribal occupancy of a tract within the continental United States.
 
@@ -21,9 +23,6 @@ This map portrays the results of cases before the U.S. Indian Claims Commission 
 - Projection: Albers Equal Area Projection
 - Scale: 4000000
 
-**Map Name** - date created, download date, source, file format, file size
-
-- **[Indian land areas judicially established](Indian-Lands-plate-1.pdf)**, 197 - 04.15.2017, [source](https://pubs.er.usgs.gov/publication/70114965), PDF, _~6 MB_
 
 ## Topographic Maps
 
