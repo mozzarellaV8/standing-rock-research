@@ -1,8 +1,8 @@
 # Standing Rock Research
 
-Hi! 
+![Indian Land Areas, Judicially Established 1978](data/USGS/Indian-Lands-plate-1.jpg)
 
-This is a general repository for research topics, data, writing,and images - spawned from two trips I'd made out to Standing Rock in November 2016 and February 2017. After discussions with various people at camp and beyond, I decided to try to collect various findings into one place - here. 
+Hello! This is a general repository for research topics, data, writing, and images - spawned from two trips I'd made out to Standing Rock in November 2016 and February 2017. After discussions with various people at camp and beyond, I decided to try to collect various findings into one place - here. 
 
 Media has covered a lot of what happens day to day, and regardless of whether the camp physically exists the issues brought up by Standing Rock persist - be they cultural, environmental/scientific, legislative, or personal. 
 
@@ -16,8 +16,10 @@ _mozzarella@protonmail.com_
 
 - [Data Main](data)
 - [Energy Information Administration](data/EIA)
-- [U.S. Geological Survey](data/USGS)
 - [Environmental Protection Agency](data/EPA)
+- [Pipeline and Hazardous Materials Safety Administration](data/PHMSA)
+- [U.S. Geological Survey](data/USGS)
+
 
 ## Broad Strokes
 
