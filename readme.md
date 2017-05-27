@@ -19,6 +19,7 @@ _mozzarella@protonmail.com_
 - [Environmental Protection Agency](data/EPA)
 - [Pipeline and Hazardous Materials Safety Administration](data/PHMSA)
 - [U.S. Geological Survey](data/USGS)
+- [Law Enforcement Tactics](law-enforcement)
 
 
 ## Broad Strokes
@@ -33,7 +34,7 @@ aka TODO
 - **Oil** - this subheading's gonna sprawl; benzene (C<sub>6</sub>H<sub>6</sub>); Hydraulic Fracturing
 - **Coal** - mountaintop removal; labor abuses
 - **Divestment Strategies**
-- **Law Enforcement Tactics**
+- **Law Enforcement Tactics** - news and FOIA documents.
 - **Culture & History** - public and personal perspectives in writing, images, video
 
 
